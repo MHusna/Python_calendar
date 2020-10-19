@@ -9,4 +9,3 @@ import calendar
 
 print("2020 Yılı Takvimi: ")
 print(calendar.calendar(2020, 2, 1, 5))
-print(iterweekdays())
